@@ -8,13 +8,13 @@ header {
 }
 
 main {
-    height:70vh;
+    height:75vh;
     background-color:green;
 }
 
 
 footer {
-    height:20vh;
+    height:15vh;
     background-color:red;
 }
 
@@ -22,5 +22,51 @@ div {
     background-color:yellow;
     position:absolute;
     height:20vh;
-    width:15vw;
+    width:17vw;
+}
+
+#div1 {
+    top:16vh;
+    left:10vw;
+}
+
+#div2 {
+    top:16vh;
+    left:30vw;
+}
+
+#div3 {
+    top:16vh;
+    left:50vw;
+}
+
+#div4 {
+    top:16vh;
+    left:70vw;
+}
+
+
+#div5 {
+    top:40vh;
+    left:19vw;
+}
+
+#div6 {
+    top:40vh;
+    left:39vw;
+}
+
+#div7 {
+    top:40vh;
+    left:59vw;
+}
+
+#div8 {
+    top:65vh;
+    left: 30vw;
+}
+
+#div9 {
+    top:65vh;
+    left:50vw;
 }

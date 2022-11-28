@@ -1,0 +1,65 @@
+body {
+    padding:0;
+    height:100vh;
+}
+
+
+body > header {
+    height:15vh;
+    text-align:center;
+    font-size:2em;
+    font-weight:bold;
+}
+
+main {
+    height:70vh;
+}
+
+footer {
+    height:15vh;
+}
+
+article {
+    border: 1px solid black;
+    position:absolute;
+    overflow:hidden;
+}
+
+article > header {
+    font-weight:bold;
+    margin-top:1vh;
+    margin-bottom:2vh;
+}
+
+
+article:first-of-type {
+    height:30vh;
+    width:60vw;
+}
+
+article:nth-of-type(2) {
+    height:30vh;
+    width:40vw;
+    left:61vw;
+}
+
+article:nth-of-type(3) {
+    height:35vh;
+    width:30vw;
+    top:55vh;
+}
+
+article:nth-of-type(4) {
+    height:35vh;
+    width:30vw;
+    top:55vh;
+    left:32vw;
+
+}
+
+article:last-of-type {
+    height:35vh;
+    width:30vw;
+    top:55vh;
+    left:64vw;
+}
