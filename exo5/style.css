@@ -1,0 +1,59 @@
+/* -----GENERAL----- */
+body {
+    padding:0;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+/* ----HEADER------ */
+
+body > header {
+    height:10vh;
+
+}
+
+body > header nav {
+    position:absolute;
+    width:100vw;
+}
+
+body > header nav ul {
+    display:inline-block;
+    list-style-type:none;
+    position:absolute;
+    left:55vw;
+}
+
+body > header nav > ul > li {
+    display:inline-block;
+    margin-right:2vw;
+
+}
+
+body > header nav > ul > li a {
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+
+
+/* -----MAIN ------ */
+
+/* ------FIRST SECTION H1--------*/
+
+.title {
+    height:100vh;
+    font-size:3em;
+    text-align:center;
+}
+
+h1 {
+    width:50%;
+    position:absolute;
+}
+
+
+
+
+/* -----FOOTER ----- */
