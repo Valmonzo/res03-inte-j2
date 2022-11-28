@@ -1,0 +1,42 @@
+header {
+    height: 10vh ;
+    background-color:blue;
+}
+
+main {
+    height:70vh;
+    background-color:green;
+}
+
+
+footer {
+    height:20vh;
+    background-color:red;
+}
+
+
+div {
+    position:relative;
+    background-color:yellow;
+}
+
+#div1 {
+    height:37vh;
+    width:27vw;
+    top:16vh;
+    left:5vw;
+}
+
+#div2 {
+    height:37vh;
+    width:27vw;
+    bottom:21vh;
+    left:37vw;
+}
+
+#div3 {
+    height:37vh;
+    width:27vw;
+    left: 68vw;
+    bottom:58vh;
+}
